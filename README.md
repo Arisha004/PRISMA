@@ -1,5 +1,5 @@
 # Prisma Project
-<img src="image/prisma.png" alt="Prisma" width="500" height="350" position="centre">
+<img src="prisma.png" alt="Prisma" width="500" height="350" position="centre">
 
 ## Prisma Website Architecture
 
